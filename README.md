@@ -1,3 +1,3 @@
-[![CircleCI](https://circleci.com/gh/ericbalawejder/tsbb2b-sfg-brewery.svg?style=svg)](https://circleci.com/gh/ericbalawejder/tsbb2b-sfg-brewery)
+[![CircleCI](https://circleci.com/gh/ericbalawejder/tsbb-sfg-brewery.svg?style=svg)](https://circleci.com/gh/ericbalawejder/tsbb-sfg-brewery)
 
 # tsbb-sfg-brewery
